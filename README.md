@@ -54,7 +54,7 @@ DA:\
 - device_screen_resolution — разрешение экрана;
 - device_browser — браузер;
 - geo_country — страна;
-- geo_city — город.
+- geo_city — город.\
 2 GA Hits (ga_hits.pkl)\
 Одна строка = одно событие в рамках одного визита на сайт.\
 Описание атрибутов:
